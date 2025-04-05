@@ -11,7 +11,6 @@ This is a web application for editing images with various filters and downloadin
 - [How to Use](#how-to-use)
 - [JavaScript Functions](#javascript-functions)
 - [Setting Up from GitHub](#setting-up-from-github)
-- [Live Demo](#live-demo)
 - [Credits](#credits)
 
 ## Introduction
@@ -82,18 +81,6 @@ To use this tool, simply open the `index.html` file in your web browser. Upload 
 1. Clone the repository to your local machine using `git clone <repository-url>`.
 2. Open the project directory in your code editor.
 3. Open the `index.html` file in a web browser to use the application.
-
-## Video Demo
-[![Demo](./images/yt.png)](https://youtu.be/OYTu9h1bgHg?si=_CggTfLTl-PVZ_u0)
-
-## Screenshots
-![Screenshot 1](./images/demo1.png)
-![Screenshot 2](./images/demo2.png)
-
-**Image before editing**
-![Screenshot 3](./images/original.jpg)
-**Image after editing**
-![[Screenshot 4](./images/edited.png)
 
 
 ## Credits
