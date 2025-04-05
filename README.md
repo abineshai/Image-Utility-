@@ -87,18 +87,15 @@ To use this tool, simply open the `index.html` file in your web browser. Upload 
 [![Demo](./images/yt.png)](https://youtu.be/OYTu9h1bgHg?si=_CggTfLTl-PVZ_u0)
 
 ## Screenshots
-![Screenshot 1](./images/demo1.png)
-![Screenshot 2](./images/demo2.png)
+![](./images/demo1.png)
+![](./images/demo2.png)
 
 **Image before editing**
-![Screenshot 3](./images/original.jpg)
+![](./images/original.jpg)
 **Image after editing**
 ![Screenshot 4](./images/edited.png)
 
 
 ## Credits
-- Made with 💗 by [Surojit](https://mondalsurojit.github.io/Surojit/)
+- Made with 💗 by abinesh
 
----
-
-For more details, please check out the live demo or the code repository.
