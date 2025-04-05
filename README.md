@@ -87,13 +87,13 @@ To use this tool, simply open the `index.html` file in your web browser. Upload 
 [![Demo](./images/yt.png)](https://youtu.be/OYTu9h1bgHg?si=_CggTfLTl-PVZ_u0)
 
 ## Screenshots
-![](./images/demo1.png)
-![](./images/demo2.png)
+![Screenshot 1](./images/demo1.png)
+![Screenshot 2](./images/demo2.png)
 
 **Image before editing**
-![](./images/original.jpg)
+![Screenshot 3](./images/original.jpg)
 **Image after editing**
-![Screenshot 4](./images/edited.png)
+![[Screenshot 4](./images/edited.png)
 
 
 ## Credits
