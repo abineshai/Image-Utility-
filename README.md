@@ -11,7 +11,6 @@ This is a web application for editing images with various filters and downloadin
 - [How to Use](#how-to-use)
 - [JavaScript Functions](#javascript-functions)
 - [Setting Up from GitHub](#setting-up-from-github)
-- [Credits](#credits)
 
 ## Introduction
 This project is a web-based image utility tool that allows users to upload images, apply various filters to them, and download the edited images.
@@ -83,6 +82,4 @@ To use this tool, simply open the `index.html` file in your web browser. Upload 
 3. Open the `index.html` file in a web browser to use the application.
 
 
-## Credits
-- Made with 💗 by abinesh
 
